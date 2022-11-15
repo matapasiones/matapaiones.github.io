@@ -1,0 +1,42 @@
+body{
+	height: 90vh;
+	justify-content: center;
+	align-items: center;
+	padding:20px;
+	margin:20px;
+    background:url(imag.JPEG);
+	background-size: 1515px 710px;
+	background-repeat: no-repeat;	
+}
+body img{
+	width: 300px;
+	float: right;
+	margin-right: 300px;
+}
+
+h1{	
+ text-align: center;	
+ border-style:double;
+}
+h2{
+	
+	font-size: 16px;
+	text-align: center;
+	padding: 15px;
+	border-radius: 25px;
+	border-style:double;
+	width: 9cm;
+}
+h3{
+	font-size: 16px;
+	text-align: center;
+	border-radius: 25px;
+	border-style:double;
+	width: 9cm;
+}
+a{
+	background-color:black;
+	font-size: 40px;
+	text-align: center;
+	width: 9px;
+}

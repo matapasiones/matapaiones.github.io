@@ -1,0 +1,28 @@
+body{
+    background:url(fonterr.jpg);
+    background-size: 700px 500px;
+}
+h1{
+    text-align:center;
+}
+h2 {
+    text-align: center;
+}
+h2 img{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h3 img{
+    text-align: center;
+    padding:100px ;
+    width: 300px;
+}
+p{
+    text-align: center;
+    font-size: large;
+}
+img{
+    width: 300px;
+}
